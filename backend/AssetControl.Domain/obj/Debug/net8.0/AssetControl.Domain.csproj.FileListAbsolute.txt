@@ -1,0 +1,11 @@
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Domain\bin\Debug\net8.0\AssetControl.Domain.deps.json
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Domain\bin\Debug\net8.0\AssetControl.Domain.dll
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Domain\bin\Debug\net8.0\AssetControl.Domain.pdb
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Domain\obj\Debug\net8.0\AssetControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Domain\obj\Debug\net8.0\AssetControl.Domain.AssemblyInfoInputs.cache
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Domain\obj\Debug\net8.0\AssetControl.Domain.AssemblyInfo.cs
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Domain\obj\Debug\net8.0\AssetControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Domain\obj\Debug\net8.0\AssetControl.Domain.dll
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Domain\obj\Debug\net8.0\refint\AssetControl.Domain.dll
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Domain\obj\Debug\net8.0\AssetControl.Domain.pdb
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Domain\obj\Debug\net8.0\ref\AssetControl.Domain.dll

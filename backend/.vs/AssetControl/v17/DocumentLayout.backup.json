@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|solutionrelative:assetcontrol.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|solutionrelative:assetcontrol.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|solutionrelative:assetcontrol.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\abstractions\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\abstractions\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|solutionrelative:assetcontrol.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.api\\assetcontrol.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|solutionrelative:assetcontrol.api\\assetcontrol.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E628FD12-DF7D-4BF0-977E-8F597D68D060}|AssetControl.Domain\\AssetControl.Domain.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E628FD12-DF7D-4BF0-977E-8F597D68D060}|AssetControl.Domain\\AssetControl.Domain.csproj|solutionrelative:assetcontrol.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|solutionrelative:assetcontrol.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E628FD12-DF7D-4BF0-977E-8F597D68D060}|AssetControl.Domain\\AssetControl.Domain.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.domain\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E628FD12-DF7D-4BF0-977E-8F597D68D060}|AssetControl.Domain\\AssetControl.Domain.csproj|solutionrelative:assetcontrol.domain\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\validators\\checkoutdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\validators\\checkoutdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\validators\\assetupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\validators\\assetupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\validators\\assetcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\validators\\assetcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\services\\iassetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\services\\iassetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\dtos\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\dtos\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\dtos\\assetupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\dtos\\assetupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\dtos\\assetresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\dtos\\assetresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\dtos\\assetqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\dtos\\assetqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\dtos\\assetcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\dtos\\assetcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.api\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|solutionrelative:assetcontrol.api\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E628FD12-DF7D-4BF0-977E-8F597D68D060}|AssetControl.Domain\\AssetControl.Domain.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.domain\\assetcontrol.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E628FD12-DF7D-4BF0-977E-8F597D68D060}|AssetControl.Domain\\AssetControl.Domain.csproj|solutionrelative:assetcontrol.domain\\assetcontrol.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.api\\assetcontrol.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EF8C3061-3E60-4CE9-BB48-92C0E10B4C91}|AssetControl.Api\\AssetControl.Api.csproj|solutionrelative:assetcontrol.api\\assetcontrol.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF76080-2520-4B12-8EE3-820742D9063E}|AssetControl.Tests\\AssetControl.Tests.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.tests\\assetservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF76080-2520-4B12-8EE3-820742D9063E}|AssetControl.Tests\\AssetControl.Tests.csproj|solutionrelative:assetcontrol.tests\\assetservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|c:\\users\\rodri\\onedrive\\documentos\\assetcontrol\\backend\\assetcontrol.application\\assetcontrol.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92D7C732-935A-4491-B081-57FD62A46129}|AssetControl.Application\\AssetControl.Application.csproj|solutionrelative:assetcontrol.application\\assetcontrol.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\NuGet.Config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:NuGet.Config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Domain\\Asset.cs",
+              "RelativeDocumentMoniker": "AssetControl.Domain\\Asset.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Domain\\Asset.cs",
+              "RelativeToolTip": "AssetControl.Domain\\Asset.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:25:56.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\Abstractions\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "AssetControl.Application\\Abstractions\\IAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\Abstractions\\IAppDbContext.cs",
+              "RelativeToolTip": "AssetControl.Application\\Abstractions\\IAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:13:03.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AssetControl.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\Program.cs",
+              "RelativeToolTip": "AssetControl.Api\\Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:18:01.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssetControl.Api.http",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\AssetControl.Api.http",
+              "RelativeDocumentMoniker": "AssetControl.Api\\AssetControl.Api.http",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\AssetControl.Api.http",
+              "RelativeToolTip": "AssetControl.Api\\AssetControl.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-13T03:22:17.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AssetControl.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AssetControl.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T03:22:20.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AssetControl.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AssetControl.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:17:03.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "AssetControl.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\appsettings.json",
+              "RelativeToolTip": "AssetControl.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T07:17:37.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckoutDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\Validators\\CheckoutDtoValidator.cs",
+              "RelativeDocumentMoniker": "AssetControl.Application\\Validators\\CheckoutDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\Validators\\CheckoutDtoValidator.cs",
+              "RelativeToolTip": "AssetControl.Application\\Validators\\CheckoutDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:34:55.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssetUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\Validators\\AssetUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "AssetControl.Application\\Validators\\AssetUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\Validators\\AssetUpdateDtoValidator.cs",
+              "RelativeToolTip": "AssetControl.Application\\Validators\\AssetUpdateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:33:57.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssetCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\Validators\\AssetCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "AssetControl.Application\\Validators\\AssetCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\Validators\\AssetCreateDtoValidator.cs",
+              "RelativeToolTip": "AssetControl.Application\\Validators\\AssetCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:26:39.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AssetControl.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AssetControl.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAE8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:20:34.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "AssetControl.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "AssetControl.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T23:34:48.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAssetService.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\Services\\IAssetService.cs",
+              "RelativeDocumentMoniker": "AssetControl.Application\\Services\\IAssetService.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\Services\\IAssetService.cs",
+              "RelativeToolTip": "AssetControl.Application\\Services\\IAssetService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:14:15.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssetService.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\Services\\AssetService.cs",
+              "RelativeDocumentMoniker": "AssetControl.Application\\Services\\AssetService.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\Services\\AssetService.cs",
+              "RelativeToolTip": "AssetControl.Application\\Services\\AssetService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:14:44.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\DTOs\\PagedResult.cs",
+              "RelativeDocumentMoniker": "AssetControl.Application\\DTOs\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\DTOs\\PagedResult.cs",
+              "RelativeToolTip": "AssetControl.Application\\DTOs\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:11:30.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckoutDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\DTOs\\CheckoutDto.cs",
+              "RelativeDocumentMoniker": "AssetControl.Application\\DTOs\\CheckoutDto.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\DTOs\\CheckoutDto.cs",
+              "RelativeToolTip": "AssetControl.Application\\DTOs\\CheckoutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:10:03.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssetUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\DTOs\\AssetUpdateDto.cs",
+              "RelativeDocumentMoniker": "AssetControl.Application\\DTOs\\AssetUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\DTOs\\AssetUpdateDto.cs",
+              "RelativeToolTip": "AssetControl.Application\\DTOs\\AssetUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:09:37.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssetResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\DTOs\\AssetResponseDto.cs",
+              "RelativeDocumentMoniker": "AssetControl.Application\\DTOs\\AssetResponseDto.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\DTOs\\AssetResponseDto.cs",
+              "RelativeToolTip": "AssetControl.Application\\DTOs\\AssetResponseDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:10:52.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssetQueryParams.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\DTOs\\AssetQueryParams.cs",
+              "RelativeDocumentMoniker": "AssetControl.Application\\DTOs\\AssetQueryParams.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\DTOs\\AssetQueryParams.cs",
+              "RelativeToolTip": "AssetControl.Application\\DTOs\\AssetQueryParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:11:56.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssetCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\DTOs\\AssetCreateDto.cs",
+              "RelativeDocumentMoniker": "AssetControl.Application\\DTOs\\AssetCreateDto.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\DTOs\\AssetCreateDto.cs",
+              "RelativeToolTip": "AssetControl.Application\\DTOs\\AssetCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:08:59.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssetsController.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\Controllers\\AssetsController.cs",
+              "RelativeDocumentMoniker": "AssetControl.Api\\Controllers\\AssetsController.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\Controllers\\AssetsController.cs",
+              "RelativeToolTip": "AssetControl.Api\\Controllers\\AssetsController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:21:17.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssetServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Tests\\AssetServiceTests.cs",
+              "RelativeDocumentMoniker": "AssetControl.Tests\\AssetServiceTests.cs",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Tests\\AssetServiceTests.cs",
+              "RelativeToolTip": "AssetControl.Tests\\AssetServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:22:03.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssetControl.Api",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\AssetControl.Api.csproj",
+              "RelativeDocumentMoniker": "AssetControl.Api\\AssetControl.Api.csproj",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Api\\AssetControl.Api.csproj",
+              "RelativeToolTip": "AssetControl.Api\\AssetControl.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T07:51:53.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssetControl.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Domain\\AssetControl.Domain.csproj",
+              "RelativeDocumentMoniker": "AssetControl.Domain\\AssetControl.Domain.csproj",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Domain\\AssetControl.Domain.csproj",
+              "RelativeToolTip": "AssetControl.Domain\\AssetControl.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T23:34:04.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssetControl.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\AssetControl.Application.csproj",
+              "RelativeDocumentMoniker": "AssetControl.Application\\AssetControl.Application.csproj",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\AssetControl.Application\\AssetControl.Application.csproj",
+              "RelativeToolTip": "AssetControl.Application\\AssetControl.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T07:15:21.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NuGet.Config",
+              "DocumentMoniker": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\NuGet.Config",
+              "RelativeDocumentMoniker": "NuGet.Config",
+              "ToolTip": "C:\\Users\\Rodri\\OneDrive\\Documentos\\AssetControl\\backend\\NuGet.Config",
+              "RelativeToolTip": "NuGet.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-12T05:24:31.897Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

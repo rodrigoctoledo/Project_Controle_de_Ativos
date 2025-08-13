@@ -1,0 +1,15 @@
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\bin\Debug\net8.0\AssetControl.Application.deps.json
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\bin\Debug\net8.0\AssetControl.Application.dll
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\bin\Debug\net8.0\AssetControl.Application.pdb
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\bin\Debug\net8.0\AssetControl.Domain.dll
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\bin\Debug\net8.0\AssetControl.Domain.pdb
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\obj\Debug\net8.0\AssetControl.Application.csproj.AssemblyReference.cache
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\obj\Debug\net8.0\AssetControl.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\obj\Debug\net8.0\AssetControl.Application.AssemblyInfoInputs.cache
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\obj\Debug\net8.0\AssetControl.Application.AssemblyInfo.cs
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\obj\Debug\net8.0\AssetControl.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\obj\Debug\net8.0\AssetCon.BC2D2211.Up2Date
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\obj\Debug\net8.0\AssetControl.Application.dll
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\obj\Debug\net8.0\refint\AssetControl.Application.dll
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\obj\Debug\net8.0\AssetControl.Application.pdb
+C:\Users\Rodri\OneDrive\Documentos\AssetControl\backend\AssetControl.Application\obj\Debug\net8.0\ref\AssetControl.Application.dll

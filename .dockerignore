@@ -1,0 +1,11 @@
+**/bin
+**/obj
+**/.vs
+**/.vscode
+**/node_modules
+*.db
+*.db-shm
+*.db-wal
+
+# Ignore SÓ a pasta de dados que é volume, não o código:
+backend/data/**

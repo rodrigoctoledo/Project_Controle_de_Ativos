@@ -1,0 +1,1 @@
+-e "\n# SQLite\n*.db\n/app/data/\n" 
